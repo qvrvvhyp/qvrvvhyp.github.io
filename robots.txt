@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://qvrvvhyp.github.io/sitemap.xml
